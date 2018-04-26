@@ -1,1 +1,0 @@
-In order to run a socket server first, set the SocketServer application as a StartUp Project and click Start, then run a CustomLogger as a new instance in Debug mode by right clicking on the CustomLogger Project - Debug -> Start new instance. 
