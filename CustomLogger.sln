@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomLogger", "CustomLogger\CustomLogger.csproj", "{A81AFBD6-9B27-4646-B580-4AD30D5ECE3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer\SocketServer.csproj", "{CF3CED43-BB0E-49A2-8308-8C45BBA8A0EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81AFBD6-9B27-4646-B580-4AD30D5ECE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81AFBD6-9B27-4646-B580-4AD30D5ECE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81AFBD6-9B27-4646-B580-4AD30D5ECE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81AFBD6-9B27-4646-B580-4AD30D5ECE3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3CED43-BB0E-49A2-8308-8C45BBA8A0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3CED43-BB0E-49A2-8308-8C45BBA8A0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3CED43-BB0E-49A2-8308-8C45BBA8A0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3CED43-BB0E-49A2-8308-8C45BBA8A0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
